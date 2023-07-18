@@ -1,0 +1,10 @@
+{
+  "name": "sqlite-vss-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^8.4.0",
+    "sqlite-vss": "^0.1.1-alpha.20"
+  }
+}
